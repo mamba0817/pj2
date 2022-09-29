@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: my-webserver
-        image: scver123/myweb:1.1
+        image: mamba0817/myweb:1.2
         ports:
         - containerPort: 80
 ---
